@@ -34,7 +34,7 @@ A File Rename Bot with Custom Thumbnail Support
 
 * API_ID,API_HASH - From [Telegram](https://my.telegram.org/auth?to=apps)
 
-* ADMIN         - Your [User ID](https://t.me/MissRose_bot)
+* ADMIN         - Your User ID [@MissRoseBot](https://t.me/MissRose_bot)
 
 * DATABASE_NAME  - Your database name from mongoDB. Default will be 'Enter Name'
 

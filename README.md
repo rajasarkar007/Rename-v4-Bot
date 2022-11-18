@@ -34,7 +34,7 @@ A File Rename Bot with Custom Thumbnail Support
 
 * API_ID,API_HASH - From [Telegram](https://my.telegram.org/auth?to=apps)
 
-* ADMIN         - Your User ID [@MissRoseBot](https://t.me/MissRose_bot)
+* ADMIN Your User ID - Cmds= /info [@MissRoseBot](https://t.me/MissRose_bot)
 
 * DATABASE_NAME  - Your database name from mongoDB. Default will be 'Enter Name'
 
@@ -71,7 +71,7 @@ mongodb+srv://MRUSERNAME:MRPASSWORD@cluster0.dciqs.mongodb.net/myFirstDatabase?r
 
 
 <p align="left">
-<a href="https://t.me/reportrenamev4"><img src="https://img.shields.io/badge/Join%20Our%20Group-Error%20404-darkblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/reportrenamev4"><img src="https://img.shields.io/badge/Join%20Group-report%20v4-darkred?style=for-the-badge&logo=telegram"></a>
 </p>
 <p align="left">
 <a href="https://github.com/rajasarkar007"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>

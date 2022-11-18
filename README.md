@@ -38,7 +38,7 @@ A File Rename Bot with Custom Thumbnail Support
 
 * ADMIN         - Your User ID 
 
-* DATABASE_NAME  - Your database name from mongoDB. Default will be 'my'
+* DATABASE_NAME  - Your database name from mongoDB. Default will be 'Enter Name'
 
 * DATABASE_URI  - Mongo Database URL from https://cloud.mongodb.com/
 

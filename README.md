@@ -79,7 +79,7 @@ mongodb+srv://MRUSERNAME:MRPASSWORD@cluster0.dciqs.mongodb.net/myFirstDatabase?r
 <a href="https://github.com/rajasarkar007"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/raja.studiomix"><img src="[https://img.shields.io/badge/Instagram-Raja%20Studio%20Mix-lightgrey]"></a>
+<a href="https://instagram.com/raja.studiomix"><img src="[https://img.shields.io/badge/Instagram-Raja%20Studio%20Mix-magenta?style=for-the-badge&logo=instagram]"></a>
 </p>
 
 ##  CONTACT ME ON ⬇️ 

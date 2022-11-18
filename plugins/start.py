@@ -19,9 +19,9 @@ async def start(client,message):
 
 ☞ Then Wait Till The Process Get Completed!
 
-☞ Owner By : @softwaredeveloper007
+☞ Owner By : @rajasarkar007
 
-**☞ Want To Buy Owr Premium Rename v4 Bot With Custom Caption Support Contact Me On @vstcrackfree**
+**☞ Want To Buy Owr Premium Rename v4 Bot With Custom Caption Support Contact Me On @softwaredeveloper007**
 	""",reply_to_message_id = message.message_id ,  
 	reply_markup=InlineKeyboardMarkup(
 	 [[ InlineKeyboardButton("Support Channel" ,url="https://t.me/rsrenameupdate") ]  ]))

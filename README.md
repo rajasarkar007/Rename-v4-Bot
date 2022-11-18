@@ -6,7 +6,7 @@ AFTER FORK DON'T FORGET TO MAKE YOUR OWN DEPLOY LINK OTHERWISE BOT WILL NOT WORK
 
 ## DEMO-BOT 👇👇
 
-[RENAME PRO ROBOT](https://t.me/)
+[RENAME PRO ROBOT](https://t.me/renamev4_bot)
 
 
 
@@ -30,13 +30,11 @@ A File Rename Bot with Custom Thumbnail Support
 
 ## Configs 
 
-* TG_BOT_TOKEN  - Get bot token from @BotFather
+* TG_BOT_TOKEN  - Get bot token from [@BotFather](https://t.me/BotFather)
 
-* API_ID        - From my.telegram.org 
+* API_ID,API_HASH - From [Telegram](https://my.telegram.org/auth?to=apps)
 
-* API_HASH      - From my.telegram.org 
-
-* ADMIN         - Your User ID 
+* ADMIN         - Your [User ID](https://t.me/MissRose_bot)
 
 * DATABASE_NAME  - Your database name from mongoDB. Default will be 'Enter Name'
 
